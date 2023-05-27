@@ -1,0 +1,20 @@
+stages:          # List of stages for jobs, and their order of execution
+  - initiation
+  - tests-coverage
+  - tests-unitaires
+  
+initiation-job: 
+  stage: initiation
+  script:
+    - echo "initiation start"
+
+tests-coverage-job: 
+  stage: tests-coverage
+  script:
+      - echo "Running tests-coverage"
+
+      
+tests-unitaires-job: 
+  stage: tests-unitaires
+  script:
+      - echo "Running Tests-unitaires"

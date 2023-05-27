@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="2" assertions="0" errors="2" warnings="0" failures="0" skipped="0" time="0.008870">
+    <testsuite name="default" tests="2" assertions="0" errors="2" warnings="0" failures="0" skipped="0" time="0.008870">
+      <testsuite name="dbTest" file="C:\xampp\htdocs\ecommerce_website\tests\dbTest.php" tests="2" assertions="0" errors="2" warnings="0" failures="0" skipped="0" time="0.008870">
+        <testcase name="testGetDB" class="dbTest" classname="dbTest" file="C:\xampp\htdocs\ecommerce_website\tests\dbTest.php" line="8" assertions="0" time="0.007513">
+          <error type="Error">dbTest::testGetDB
+Error: Class "Opium\EcommerceWebsite\db" not found
+
+C:\xampp\htdocs\ecommerce_website\tests\dbTest.php:10</error>
+        </testcase>
+        <testcase name="testExecQuery" class="dbTest" classname="dbTest" file="C:\xampp\htdocs\ecommerce_website\tests\dbTest.php" line="14" assertions="0" time="0.001357">
+          <error type="Error">dbTest::testExecQuery
+Error: Class "Opium\EcommerceWebsite\db" not found
+
+C:\xampp\htdocs\ecommerce_website\tests\dbTest.php:16</error>
+        </testcase>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>

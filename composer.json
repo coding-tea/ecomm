@@ -1,0 +1,17 @@
+{
+    "name": "opium/ecommerce_website",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Opium\\EcommerceWebsite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "digital opium",
+            "email": "test@ismail.com"
+        }
+    ]
+}
