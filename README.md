@@ -7,6 +7,6 @@
 * Programming languages: JavaScript, PHP, html, CSS, SQL.
 * Technologies & Frameworks: Tailwind, Jira.
 
-## /- How to use it:
+## /- How to use the project:
 * to use this project you have to install xampp
 * and launch the project
