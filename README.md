@@ -1,7 +1,7 @@
 ## /- About project:
 * E-commerce website application that allows customers to find products and purchase them.
 
-<img src='./1685197788964.jpg' width='100%' title='e-commerce project' />
+<img src='./1685197788964.jpg' width='100%' title='e-commerce project'/>
 
 ## /- Tools I use: 
 * Programming languages: JavaScript, PHP, html, CSS, SQL.
