@@ -4,7 +4,7 @@
 <img src='./1685197788964.jpg' width='100%' title='e-commerce project'/> 
 
 ## /- Tools I use:  
-* Programming languages: JavaScript, PHP, html, CSS, SQL.
+* Programming languages: JavaScript, PHP, html, CSS, SQL. 
 * Technologies & Frameworks: Tailwind, Jira.
 
 ## /- How to use the project:
